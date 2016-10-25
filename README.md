@@ -17,10 +17,10 @@ This Specialization covers the fundamentals of programming Erlang.
 
 Erlang Tutorial 
 [x] 01 Erlang - Erlang Installation 3:28
-[ ] 02 Erlang - Basic Types - Integer, Floating Point and Atoms 3:15  
-[ ] 03 Erlang - Basics - Variables, Comparison Operator and Tuple 4:48  
-[ ] 04 Erlang - List 5:47   
-[ ] 05 Erlang - Modules and Functions 10:26   
+[x] 02 Erlang - Basic Types - Integer, Floating Point and Atoms 3:15  
+[x] 03 Erlang - Basics - Variables, Comparison Operator and Tuple 4:48  
+[x] 04 Erlang - List 5:47   
+[x] 05 Erlang - Modules and Functions 10:26   
 [ ] 06 Erlang - Case Statement 5:37   
 [ ] 07 Erlang - Case Statement Pattern Matching 4:46  
 [ ] 08 Erlang - If Statement 5:43  
